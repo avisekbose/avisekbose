@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avisek Bose
 - 👀 I’m interested in Accounting & Analytics
 - 🌱 I’m currently learning Analytics
-- 💞️ I’m looking to collaborate on Accounting & Analytics 
+- 💞️ I’m looking to collaborate on Accounting & Data Analytics 
 - 📫 Reach me at avisek.bose@hotmail.com
 
 <!---
