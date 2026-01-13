@@ -1,6 +1,6 @@
-# Hi, I'm Avisek Bose 👋
+# Hi, I'm Avisek Bose
 
-Finance & Accounts professional with **11+ years of experience**, currently transitioning into **Finance & Data Analytics**.
+Finance & Accounts Professional with 11+ years of experience in financial accounting, statutory compliance, reconciliations, and finalization of accounts, now transitioning into Finance & Data Analytics. Skilled in leveraging Excel, SQL, Python, Tableau and Power BI to analyse financial and business data, generate insights, and support data-driven decision-making. Strong domain expertise in accounting combined with analytical thinking and hands-on project experience.
 
 ## 🔍 About Me
 - Strong background in GL, AR/AP, GST, TDS, audits & MIS reporting  
