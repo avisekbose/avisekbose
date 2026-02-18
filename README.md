@@ -1,27 +1,65 @@
 # Hi, I'm Avisek Bose
+📊 Data Analyst | SQL | Python | Excel | Power BI | Tableau
+📈 Turning data into business insights
 
-Finance & Accounts Professional with 11+ years of experience in financial accounting, statutory compliance, reconciliations, and finalization of accounts, now transitioning into Finance & Data Analytics. Skilled in leveraging Excel, SQL, Python, Tableau and Power BI to analyse financial and business data, generate insights, and support data-driven decision-making. Strong domain expertise in accounting combined with analytical thinking and hands-on project experience.
+## 🚀 About Me
+I am a data-driven professional with strong analytical expertise in SQL, Python, Excel, and BI tools. With a background in finance and accounting, I specialize in transforming structured datasets into actionable business insights that support strategic decision-making.
+I focus on:
+Exploratory Data Analysis (EDA)
+KPI Development & Performance Tracking
+Revenue & Customer Analytics
+Dashboard Development
+Business Intelligence Reporting
 
-## 🔍 About Me
-- Strong background in GL, AR/AP, GST, TDS, audits & MIS reporting  
-- Hands-on experience with **Excel, SQL, Python & Power BI**  
-- Passionate about turning financial and business data into actionable insights  
+## 🛠 Tech Stack
+Languages & Querying
+SQL (Joins, CTEs, Window Functions, Aggregations)
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Data Visualization & BI
+Power BI
+Tableau
+Advanced Excel (Pivot Tables, Power Query, Dashboards)
+Other Tools
+Streamlit
+Git & GitHub
+MySQL
 
-## 🛠 Skills
-- **Analytics:** Advanced Excel, SQL, Python, Power BI  
-- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Accounting:** Tally ERP9  
+## 📂 Featured Projects
 
-## 📊 Featured Projects
-- **Bank Marketing Analysis (Excel)**  
-  Customer segmentation & campaign performance analysis  
+## 📊 Bank Marketing Campaign Analysis (Excel)
+Analysis of 45,000+ customer records to optimize marketing conversion strategy.
+🔹 Built interactive dashboards tracking campaign performance
+🔹 Identified high-conversion customer segments
+🔹 Reduced manual reporting time by 40%
 
-- **E-commerce Business Analysis (SQL)**  
-  Revenue, customer behavior & growth metrics  
+👉 Repository: https://github.com/avisekbose/bank-marketing-analysis-excel
 
-- **Superstore Sales Analysis (Python)**  
-  Sales & profit trends, loss-making product analysis  
+## 🛒 E-Commerce Business Analysis (SQL)
+Transactional analysis of 100,000+ records to uncover revenue and retention insights.
+🔹 Calculated Revenue, AOV, Monthly Growth
+🔹 Identified top 20% products contributing 65% of revenue
+🔹 Performed cohort-style repeat customer analysis
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/avisek-bose-28a63057/
-- E-mail: avisek.bose@hotmail.com
+👉 Repository: https://github.com/avisekbose/ecommerce-business-analysis-sql
+
+## 📈 Superstore Sales Dashboard (Python)
+Interactive retail analytics dashboard with profitability insights.
+🔹 Identified 15% loss-making products
+🔹 Analyzed discount-to-profit correlation
+🔹 Built interactive KPI tracking dashboard
+
+👉 Repository: https://github.com/avisekbose/superstore-sales-analysis-python
+
+## 📊 What I’m Currently Working On
+Advanced SQL query optimization
+Cohort & retention analysis projects
+Building interactive Streamlit analytics dashboards
+Strengthening Power BI data modeling skills
+
+## 📈 GitHub Stats
+![Avisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=avisekbose&show_icons=true)
+
+## 📬 Connect With Me
+LinkedIn: https://linkedin.com/in/avisek-bose-28a63057
+
+Email: avisek.bose@hotmail.com
