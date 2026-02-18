@@ -45,6 +45,14 @@ Streamlit • Git & GitHub
 **Impact:** Highlighted 15% of loss-making SKUs, revealed 20% regional profit variance, and visualized discount impact for pricing strategy.  
 🔗 Repo: https://github.com/avisekbose/superstore-sales-analysis-python
 
+## 🏏 IPL Tournament Performance Dashboard – Tableau
+**Description**: Designed an interactive Tableau dashboard analyzing multi-season IPL data to evaluate team performance, win percentage trends, and player contributions.
+**Impact**: Engineered KPI cards for total matches, teams, and seasons; implemented calculated fields for win % analysis; identified dominant teams contributing ~45% of total wins across seasons.
+🔗 Live Dashboard:
+https://public.tableau.com/app/profile/avisek.bose/viz/IPLDataset_17708119774380/IPLTournamentPerformanceDashboard_AvisekBose
+🔗 Repo:
+https://github.com/avisekbose/ipl-tableau-dashboard
+
 ## 💡 Things I’m Currently Working On
 
 - Advanced SQL performance optimization  
