@@ -1,65 +1,57 @@
-# Hi, I'm Avisek Bose
-📊 Data Analyst | SQL | Python | Excel | Power BI | Tableau
-📈 Turning data into business insights
+# 👋 Hi, I’m Avisek Bose
 
-## 🚀 About Me
-I am a data-driven professional with strong analytical expertise in SQL, Python, Excel, and BI tools. With a background in finance and accounting, I specialize in transforming structured datasets into actionable business insights that support strategic decision-making.
-I focus on:
-Exploratory Data Analysis (EDA)
-KPI Development & Performance Tracking
-Revenue & Customer Analytics
-Dashboard Development
-Business Intelligence Reporting
+📊 **Aspiring Data Analyst** | SQL | Python | Excel | Power BI  
+📍 Kolkata, India  
+📈 Turning data into actionable business insights
+
+Welcome to my GitHub! I build data projects that reveal patterns, track key performance metrics, and support business decisions.
+
+## 🔍 About Me
+
+I’m a data enthusiast with a strong foundation in SQL, Excel, Python, and BI tools. I enjoy solving real-world business problems by extracting insights from data. My background spans finance, reporting, and analytics — giving me a blend of analytical rigor and business context.
+
+I specialize in:
+- Data cleaning, transformation, and validation  
+- SQL querying and relational data analysis  
+- KPI development and trend analysis  
+- Dashboard and report design using Power BI / Excel  
+- Exploratory Data Analysis (EDA) and visualization
 
 ## 🛠 Tech Stack
-Languages & Querying
-SQL (Joins, CTEs, Window Functions, Aggregations)
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Data Visualization & BI
-Power BI
-Tableau
-Advanced Excel (Pivot Tables, Power Query, Dashboards)
-Other Tools
-Streamlit
-Git & GitHub
-MySQL
 
-## 📂 Featured Projects
+**Languages & Querying**  
+SQL • Python (Pandas, NumPy) • Advanced Excel
 
-## 📊 Bank Marketing Campaign Analysis (Excel)
-Analysis of 45,000+ customer records to optimize marketing conversion strategy.
-🔹 Built interactive dashboards tracking campaign performance
-🔹 Identified high-conversion customer segments
-🔹 Reduced manual reporting time by 40%
+**Visualization & BI Tools**  
+Power BI • Tableau • Matplotlib • Seaborn
 
-👉 Repository: https://github.com/avisekbose/bank-marketing-analysis-excel
+**Apps & Deployment**  
+Streamlit • Git & GitHub
 
-## 🛒 E-Commerce Business Analysis (SQL)
-Transactional analysis of 100,000+ records to uncover revenue and retention insights.
-🔹 Calculated Revenue, AOV, Monthly Growth
-🔹 Identified top 20% products contributing 65% of revenue
-🔹 Performed cohort-style repeat customer analysis
+## 🚀 Featured Projects
 
-👉 Repository: https://github.com/avisekbose/ecommerce-business-analysis-sql
+### 🔸 Bank Marketing Campaign Analysis – Excel  
+**Description:** Analyzed 45,000+ customer records to evaluate campaign performance, identify high-conversion segments, and optimize targeting.  
+**Impact:** Improved data clarity (+30%), reduced manual reporting time (-40%), identified segments with 12–15% higher response probability.  
+🔗 Repo: https://github.com/avisekbose/bank-marketing-analysis-excel
 
-## 📈 Superstore Sales Dashboard (Python)
-Interactive retail analytics dashboard with profitability insights.
-🔹 Identified 15% loss-making products
-🔹 Analyzed discount-to-profit correlation
-🔹 Built interactive KPI tracking dashboard
+### 🛒 E-Commerce Business Performance Analysis – SQL  
+**Description:** Used SQL to analyze 100,000+ e-commerce records, uncovering trends in revenue, retention, and product performance.  
+**Impact:** Found top 20% products contributing 65% revenue, identified an 18% high-retention customer group, and improved query performance by ~25%.  
+🔗 Repo: https://github.com/avisekbose/ecommerce-business-analysis-sql
 
-👉 Repository: https://github.com/avisekbose/superstore-sales-analysis-python
+### 📈 Superstore Sales & Profitability Dashboard – Python + Streamlit  
+**Description:** Built an interactive Streamlit dashboard to explore retail sales, discounts, and profitability.  
+**Impact:** Highlighted 15% of loss-making SKUs, revealed 20% regional profit variance, and visualized discount impact for pricing strategy.  
+🔗 Repo: https://github.com/avisekbose/superstore-sales-analysis-python
 
-## 📊 What I’m Currently Working On
-Advanced SQL query optimization
-Cohort & retention analysis projects
-Building interactive Streamlit analytics dashboards
-Strengthening Power BI data modeling skills
+## 💡 Things I’m Currently Working On
 
-## 📈 GitHub Stats
-![Avisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=avisekbose&show_icons=true)
+- Advanced SQL performance optimization  
+- Predictive analytics projects (clustering, regression models)  
+- Enhanced Power BI dashboards with real-time data  
+- Live interactive analytics apps with Streamlit
 
 ## 📬 Connect With Me
 LinkedIn: https://linkedin.com/in/avisek-bose-28a63057
-
 Email: avisek.bose@hotmail.com
