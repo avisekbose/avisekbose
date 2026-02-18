@@ -53,5 +53,5 @@ Streamlit • Git & GitHub
 - Live interactive analytics apps with Streamlit
 
 ## 📬 Connect With Me
-LinkedIn: https://linkedin.com/in/avisek-bose-28a63057
+LinkedIn: https://linkedin.com/in/avisek-bose-28a63057/
 Email: avisek.bose@hotmail.com
